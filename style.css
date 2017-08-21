@@ -10,7 +10,7 @@ ul {
 	background-color: gold;
 }
 li {
-	float: right;
+	float: left;
 }
 
 li a {
@@ -32,5 +32,5 @@ li a:hover {
 }
 
 h1 {
-	float: center;
+	text-align: center;
 }
