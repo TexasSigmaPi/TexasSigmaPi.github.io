@@ -34,6 +34,6 @@ function showSlides() {
 	}
 	slideIndex++;
 	if (slideIndex > slides.length) {slideIndex = 1}
-	slides[slideIndex-1].style.display = "block";
+	slides[slideIndex-1].style.display = "block"; 
 	setTimeout(showSlides,2000); //change image every 2 second
 }
