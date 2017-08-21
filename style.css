@@ -38,7 +38,7 @@ h1 {
 * {box-sizing:border-box}
 
 .slideshow-container {
-	width: 100%;
+	width: 80%;
 	position: relative;
 	margin: auto;
 }
